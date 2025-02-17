@@ -1,5 +1,5 @@
 # 💫 Heyy, I'm Romyo:
-🌱 I’m currently learning about ML with Python<br>⚡ Fun fact I love playing games :)
+🌱 I’m currently learning about ML with Python<<br>💬 Ask me about: Linux, Network Security.<br>⚡ Fun fact: I love to play Valorant and I’m vibin’ hard to Weekend’s bangers 🔥🎶.
 
 
 ## 🌐 Socials:
