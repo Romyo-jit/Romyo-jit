@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Heyy, I'm Romyo:
 🌱 I’m currently learning about ML with Python<br>⚡ Fun fact my best friend is Timmy, my cat :)
 
 
