@@ -48,4 +48,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Romyo-jit&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Romyo-jit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FRomyo-jit&s=40&c=00ff00&bg=00000000&no=7&ff=alien&tb=&ta=)
 ---
