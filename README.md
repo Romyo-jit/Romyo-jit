@@ -44,7 +44,11 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Romyo-jit&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Romyo-jit&theme=kacho_ga&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Romyo-jit&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<div class='container'>
+  <img style="height: auto; width: 46%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Romyo-jit&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img style="height: auto; width: 49%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Romyo-jit&theme=tokyonight&hide_border=true" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img style="height: auto; width: 39%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romyo-jit&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" /><br>
+
+</div>
 ---
