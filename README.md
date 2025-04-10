@@ -44,8 +44,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Romyo-jit&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Romyo-jit&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Romyo-jit&theme=vue-dark&hide_border=true)
-
+![](https://github-readme-stats.vercel.app/api?username=Romyo-jit&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Romyo-jit&theme=kacho_ga&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Romyo-jit&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 ---
