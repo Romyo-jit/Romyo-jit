@@ -1,5 +1,5 @@
 # 👋 Heyy, I'm Romyo:
-🌱 I’m currently learning ML with Python<br>💬 Ask me about: Linux, Network Security.<br>⚡ I'm straight-up addicted to Valorant and vibin’ hard to The Weekend’s bangers 🔥🎶.
+🌱 I’m currently learning ML with Python<br>💬 Ask me about: Linux, Network Security.<br>
 
 [comment]: <> ( tobiasmeyhoefer Romyo-jit )
 
