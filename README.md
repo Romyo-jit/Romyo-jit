@@ -1,5 +1,5 @@
 # 👋 Heyy, I'm Romyo:
-🌱 I’m currently learning ML with Python<br>💬 Ask me about: Linux, Network Security.<br>
+🌱 I’m currently learning ML with Python and DSA<br>💬 Ask me about: Linux, Network Security.<br>
 
 [comment]: <> ( tobiasmeyhoefer Romyo-jit )
 
