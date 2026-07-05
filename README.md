@@ -34,7 +34,7 @@
 
 <br><br>
 
-## 🌐 Socials
+<h2>🌐 Socials
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 
 <br><br>
 
-## 💻 Tech Stack
+📕 Tech Stack
 
 <div align="center">
 
@@ -58,7 +58,6 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
-<br><br>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -71,7 +70,7 @@
 
 <br><br>
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <div align="center">
 
