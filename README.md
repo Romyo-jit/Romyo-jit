@@ -45,7 +45,6 @@
 
 </div>
 
-<br><br>
 
 <h2> 📕 Tech Stack </h2>
 
