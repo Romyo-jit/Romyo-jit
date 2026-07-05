@@ -34,7 +34,7 @@
 
 <br><br>
 
-<h2>🌐 Socials
+<h2>🌐 Socials </h2>
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 
 <br><br>
 
-📕 Tech Stack
+<h2> 📕 Tech Stack </h2>
 
 <div align="center">
 
@@ -70,7 +70,7 @@
 
 <br><br>
 
-📊 GitHub Stats
+<h2> 📊 GitHub Stats </h2>
 
 <div align="center">
 
