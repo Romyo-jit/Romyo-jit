@@ -5,7 +5,9 @@
   <a href="https://linkedin.com/in/romyojit-paul-857013308">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
+  <a href="https://romyo-jit.github.io/">
+    <img src="https://img.shields.io/badge/My%20Site-blueviolet?style=for-the-badge&logo=icloud&logoColor=white" alt="Website Badge"/>
+  </a>
   <br><img src="https://komarev.com/ghpvc/?username=Romyo-jit&style=flat-square&color=blue" alt=""/><br>
 </div>
 
