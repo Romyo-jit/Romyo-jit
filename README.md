@@ -1,14 +1,14 @@
 <div align="center">
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnpoZXl2ZzJkNXY0d2R5ejFjdXhiMXUxb29vbGMwZXRzc29xY292YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
+<div id="badges" align="center">
+  <a href="https://linkedin.com/in/romyojit-paul-857013308">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
-<a href="https://linkedin.com/in/romyojit-paul-857013308">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
+  <br><img src="https://komarev.com/ghpvc/?username=Romyo-jit&style=flat-square&color=blue" alt=""/><br>
+</div>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Romyo-jit&style=flat-square&color=blue"/>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hey, I'm Romyo
 
