@@ -1,4 +1,16 @@
-# 👋 Heyy, I'm Romyo:
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnpoZXl2ZzJkNXY0d2R5ejFjdXhiMXUxb29vbGMwZXRzc29xY292YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://linkedin.com/in/romyojit-paul-857013308">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Heyy, I'm Romyo
+<h1 align="center">
+  
+</h1>
 🌱 I’m currently learning ML with Python and DSA<br>💬 Ask me about: Linux, Network Security.<br>
 
 [comment]: <> ( tobiasmeyhoefer Romyo-jit )
