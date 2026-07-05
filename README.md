@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Romyo-jit&style=flat-square&color=blue"/>
 
@@ -14,13 +14,15 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2MydzJhZ2F2OHQ3NWlwNWJ3dmo4Zm5ucHVoN25wZ2s0djVyejl2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11D0XkJInM2ssU/giphy.gif" width="600"/>
 
-</div>
+<br><br>
 
 🌱 Currently learning **Machine Learning with Python** and **Data Structures & Algorithms**
 
 💬 Ask me about **Linux, Python, Networking, and Security**
 
----
+</div>
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Romyo-jit/Romyo-jit/output/github-snake-dark.svg" />
@@ -28,9 +30,9 @@
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/Romyo-jit/Romyo-jit/output/github-snake.svg" />
 </picture>
 
----
+<br><br>
 
-# 🌐 Socials
+## 🌐 Socials
 
 <div align="center">
 
@@ -41,9 +43,9 @@
 
 </div>
 
----
+<br><br>
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -51,23 +53,23 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Arch%20Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
-<br>
+<br><br>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
----
+<br><br>
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
