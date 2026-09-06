@@ -38,7 +38,7 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/romyo_not_found_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/romy0x1337)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/romyojit-paul-857013308)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/u/Potat0x1337)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23276608)
