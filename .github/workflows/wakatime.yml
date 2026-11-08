@@ -1,0 +1,138 @@
+name: Update WakaTime chart
+
+on:
+  schedule:
+    - cron: "17 0 * * *" # Daily at 5:47 AM IST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wakatime-chart
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install image tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libcairo2 fonts-dejavu-core
+          pip install cairosvg pillow lxml
+
+      - name: Download and crop SVG
+        shell: python
+        run: |
+          import io
+          import math
+          import re
+          import urllib.request
+          from pathlib import Path
+
+          import cairosvg
+          from lxml import etree
+          from PIL import Image, ImageChops
+
+          url = (
+              "https://wakatime.com/share/"
+              "@7bd8279d-fa31-4eff-8ddc-ee2da52b3ada/"
+              "a3412f94-7eef-4d47-b557-9cd8789b1abc.svg"
+          )
+
+          request = urllib.request.Request(
+              url, headers={"User-Agent": "WakaTime-README"}
+          )
+          with urllib.request.urlopen(request, timeout=60) as response:
+              source = response.read()
+
+          parser = etree.XMLParser(
+              resolve_entities=False, no_network=True
+          )
+          root = etree.fromstring(source, parser)
+          if etree.QName(root).localname != "svg":
+              raise RuntimeError("The download is not an SVG.")
+
+          viewbox = root.get("viewBox")
+          if viewbox:
+              x, y, width, height = map(
+                  float, re.split(r"[\s,]+", viewbox.strip())
+              )
+          else:
+              def dimension(name):
+                  value = root.get(name, "")
+                  if not re.fullmatch(r"\d+(?:\.\d+)?(?:px)?", value):
+                      raise RuntimeError(f"Unsupported SVG {name}: {value}")
+                  return float(value.removesuffix("px"))
+
+              x = y = 0
+              width = dimension("width")
+              height = dimension("height")
+              root.set("viewBox", f"0 0 {width} {height}")
+
+          # Render only to measure the visible content.
+          # The saved file remains a vector SVG.
+          root.set("width", str(width))
+          root.set("height", str(height))
+
+          png = cairosvg.svg2png(
+              bytestring=etree.tostring(root),
+              output_width=math.ceil(width * 2),
+              output_height=math.ceil(height * 2),
+          )
+          rgba = Image.open(io.BytesIO(png)).convert("RGBA")
+          canvas = Image.new("RGBA", rgba.size, "white")
+          canvas.alpha_composite(rgba)
+          rendered = canvas.convert("RGB")
+
+          background = Image.new(
+              "RGB", rendered.size, rendered.getpixel((0, 0))
+          )
+          difference = ImageChops.difference(rendered, background)
+          channels = difference.split()
+          mask = ImageChops.lighter(
+              ImageChops.lighter(channels[0], channels[1]),
+              channels[2],
+          )
+          bounds = mask.getbbox()
+          if bounds is None:
+              raise RuntimeError("No chart content detected.")
+
+          # Crop vertically only, with 12 SVG units of padding.
+          scale_y = rendered.height / height
+          top = max(0, bounds[1] / scale_y - 12)
+          bottom = min(height, bounds[3] / scale_y + 12)
+          cropped_height = bottom - top
+
+          root.set(
+              "viewBox",
+              f"{x:g} {y + top:g} {width:g} {cropped_height:g}",
+          )
+          root.set("height", f"{cropped_height:g}")
+
+          output = Path("assets/wakatime.svg")
+          output.parent.mkdir(parents=True, exist_ok=True)
+          output.write_bytes(
+              etree.tostring(root, encoding="utf-8", xml_declaration=True)
+          )
+          print(f"Cropped height: {height:g} → {cropped_height:g}")
+
+      - name: Commit updated chart
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/wakatime.svg
+          if git diff --cached --quiet; then
+            echo "Chart unchanged."
+          else
+            git commit -m "Update cropped WakaTime chart"
+            git push
+          fi
