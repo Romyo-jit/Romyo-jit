@@ -71,5 +71,5 @@
 ### `03 /` ⏱️ Activity
 
 <div align="center">
-  <img src="https://wakatime.com/share/@7bd8279d-fa31-4eff-8ddc-ee2da52b3ada/8c9c3ab1-52a4-4bf9-9cad-28f6111abc3e.png" width="512" />
+  <img src="./assets/wakatime.svg" alt="Activity" width="512">
 </div>
