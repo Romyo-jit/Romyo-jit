@@ -8,12 +8,10 @@
     <a href="https://romy0x1337.xyz/">
       <img src="https://img.shields.io/badge/My%20Site-B5A7E8?style=for-the-badge&logo=icloud&logoColor=white&labelColor=252535" alt="Website Badge"/>
     </a>
-    <br><img src="https://komarev.com/ghpvc/?username=Romyo-jit&style=flat-square&color=7289DA" alt=""/><br>
+    <br><img src="https://komarev.com/ghpvc/?username=Romyo-jit&style=flat-square&color=7289DA" alt=""/>
   </div>
-  
   <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2MydzJhZ2F2OHQ3NWlwNWJ3dmo4Zm5ucHVoN25wZ2s0djVyejl2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11D0XkJInM2ssU/giphy.gif" width="600"/> -->
-  
-  <img src="koi/koi.gif" width="512" alt="My koi" />  
+  <img src="koi/koi.gif" width="384" alt="My koi" />  
 
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hey, I'm Romyo
