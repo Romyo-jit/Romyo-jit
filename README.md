@@ -1,5 +1,5 @@
 <div align="center">
-
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hey, I'm Romyo
 <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnpoZXl2ZzJkNXY0d2R5ejFjdXhiMXUxb29vbGMwZXRzc29xY292YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>-->
 <img src="koi/koi.gif" width="256" alt="My koi" />
 <div id="badges" align="center">
@@ -11,9 +11,6 @@
   </a>
   <br><img src="https://komarev.com/ghpvc/?username=Romyo-jit&style=flat-square&color=blue" alt=""/><br>
 </div>
-
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hey, I'm Romyo
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2MydzJhZ2F2OHQ3NWlwNWJ3dmo4Zm5ucHVoN25wZ2s0djVyejl2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11D0XkJInM2ssU/giphy.gif" width="600"/>
 
