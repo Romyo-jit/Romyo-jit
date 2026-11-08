@@ -39,7 +39,7 @@ jobs:
           url = (
               "https://wakatime.com/share/"
               "@7bd8279d-fa31-4eff-8ddc-ee2da52b3ada/"
-              "4aa3dc93-d17a-4c10-ac29-9afad0165c15.png"
+              "89ec06c3-6d7d-45cf-935d-cba46482e2e9.png"
           )
 
           request = urllib.request.Request(
