@@ -117,7 +117,10 @@ jobs:
               f"{x:g} {y + top:g} {width:g} {cropped_height:g}",
           )
           root.set("height", f"{cropped_height:g}")
-
+          display_width = 512
+          root.set("width", str(display_width))
+          root.set("height", f"{cropped_height * display_width / width:g}")
+          
           output = Path("assets/wakatime.svg")
           output.parent.mkdir(parents=True, exist_ok=True)
           output.write_bytes(
