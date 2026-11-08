@@ -71,7 +71,5 @@
 ### `03 /` ⏱️ Activity
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=7bd8279d-fa31-4eff-8ddc-ee2da52b3ada&layout=compact&hide_border=false&bg_color=252535&title_color=B5A7E8&text_color=FFFFFF&icon_color=E8A0BF" alt="Activity"/>
-
+  <img src="https://wakatime.com/share/@7bd8279d-fa31-4eff-8ddc-ee2da52b3ada/8c9c3ab1-52a4-4bf9-9cad-28f6111abc3e.png" width="512" />
 </div>
