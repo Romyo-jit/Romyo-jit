@@ -69,5 +69,5 @@
 ### `03 /` ⏱️ Activity
 
 <div align="center">
-  <img src="https://wakatime.com/share/@7bd8279d-fa31-4eff-8ddc-ee2da52b3ada/5b575a58-27fa-4e8a-b3a7-3437baa37fa7.png" width="640" alt="Activity"/>
+  <img src="https://wakatime.com/share/@7bd8279d-fa31-4eff-8ddc-ee2da52b3ada/9155a98f-f21a-4058-8bf3-ba2c17582008.png" width="640" alt="Activity"/>
 </div>
